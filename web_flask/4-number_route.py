@@ -32,6 +32,7 @@ def python_text(text='is cool'):
 def number_n(n):
     if (n.isdigit()):
         return ("{} is a number".format(n))
+    return
 
 
 if __name__ == '__main__':
